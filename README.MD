@@ -1,0 +1,1 @@
+Example mapper for hibernate json objects with PostgreSQL 10 
